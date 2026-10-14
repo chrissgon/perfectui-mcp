@@ -59,7 +59,7 @@
   "devDependencies": {
     "@commitlint/cli": "21.2.3",
     "@commitlint/config-conventional": "21.2.3",
-    "@modelcontextprotocol/inspector": "2.8.0",
+    "@modelcontextprotocol/inspector": "2.10.1",
     "@types/node": "24.19.0",
     "changelogen": "0.6.2",
     "husky": "9.1.7",
